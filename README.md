@@ -1,2 +1,2 @@
-# phonebook
-simulates a phonebook by storing names and numbers in a dictionary
+# relearning python
+Relearning python after almost 2 years.
